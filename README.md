@@ -24,6 +24,7 @@ Manupulations done with the 40X maginification dataset :
 Here the client data distribution is shown below.<br><br>
 <img src="/Dataset Distribution.png" style="margin: 10px;">
 
+
 <br>
 The overall working of the Federated Learning approach over the client datasets is being presented :
 <br><br>
